@@ -1,2 +1,2 @@
 # basic-machinelearn
-A basic collection of machine learning codes for helping to review the fundamentals
+简单的机器学习代码，用于复习
